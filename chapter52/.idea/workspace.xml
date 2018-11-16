@@ -81,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -145,7 +145,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="111" />
     <option name="y" value="30" />
     <option name="width" value="1164" />
@@ -321,12 +321,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541574511754</updated>
       <workItem from="1541574514314" duration="21470000" />
-      <workItem from="1542341810201" duration="877000" />
+      <workItem from="1542341810201" duration="1155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22347000" />
+    <option name="totallyTimeSpent" value="22625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +338,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
@@ -575,7 +575,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
