@@ -8,8 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-client" />
         <module name="eureka-server" />
-        <module name="serice-feign" />
+        <module name="service-feign" />
         <module name="service-ribbon" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
   </component>

@@ -14,8 +14,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  */
 @SpringBootApplication
 @EnableFeignClients //开启feign功能
-@EnableDiscoveryClient
-@EnableEurekaClient
+@EnableDiscoveryClient//向服务中心注册
+@EnableEurekaClient//服务者
 public class SericeFeignApplication {
 
     public static void main(String[] args) {
