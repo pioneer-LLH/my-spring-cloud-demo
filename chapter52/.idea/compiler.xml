@@ -13,5 +13,8 @@
         <module name="service-zuul" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-service" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
